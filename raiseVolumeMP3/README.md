@@ -1,7 +1,9 @@
 # Raise Volume MP3
 
 1. move into the directory where there are the MP3 files
-2. launch, for example: raiseVolumeMP3.sh 1.5
+2. launch, for example: 
+
+`./raiseVolumeMP3.sh 1.5`
 
 -----------------
 
