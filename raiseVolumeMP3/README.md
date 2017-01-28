@@ -5,6 +5,10 @@
 
 `./raiseVolumeMP3.sh 1.5`
 
+or
+
+`./raiseVolumeMP3.sh 10dB`
+
 -----------------
 
 #Other notes
