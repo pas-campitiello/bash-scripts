@@ -1,5 +1,4 @@
 #!/bin/bash
-# move in the directory where there are the MP3 files
 ls -la
 for entry in "$search_dir"$(pwd)/*
 do
