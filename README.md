@@ -1,2 +1,2 @@
 # Bash scripts
-Minimal Bash scripts
+Collection of Bash scripts
