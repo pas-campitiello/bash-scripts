@@ -26,3 +26,4 @@ Using decibels you can also use dB:
 `ffmpeg -i input.wav -af "volume=10dB" output.wav`
 
 https://trac.ffmpeg.org/wiki/How%20to%20change%20audio%20volume%20up-down%20with%20FFmpeg
+
